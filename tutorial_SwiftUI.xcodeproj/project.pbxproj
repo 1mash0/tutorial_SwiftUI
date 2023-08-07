@@ -164,7 +164,7 @@
 		6BD005272A74333100185595 = {
 			isa = PBXGroup;
 			children = (
-				6BD005322A74333100185595 /* tutorial_scrum */,
+				6BD005322A74333100185595 /* tutorial_SwiftUI */,
 				6BD005432A74333300185595 /* tutorial_SwiftUITests */,
 				6BD0054D2A74333300185595 /* tutorial_SwiftUIUITests */,
 				6BD005312A74333100185595 /* Products */,
@@ -181,7 +181,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6BD005322A74333100185595 /* tutorial_scrum */ = {
+		6BD005322A74333100185595 /* tutorial_SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
 				6B1EC4AA2A743D1E005CA3E7 /* tutorial-scrum-Info.plist */,
@@ -192,7 +192,7 @@
 				6BD005372A74333300185595 /* Assets.xcassets */,
 				6BD005392A74333300185595 /* Preview Content */,
 			);
-			path = tutorial_scrum;
+			path = tutorial_SwiftUI;
 			sourceTree = "<group>";
 		};
 		6BD005392A74333300185595 /* Preview Content */ = {
